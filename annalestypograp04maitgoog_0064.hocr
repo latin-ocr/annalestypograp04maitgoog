@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./annalestypograp04maitgoog/annalestypograp04maitgoog_0064.png"; bbox 0 0 4440 5722; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 179 1871 1926 2269">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 179 1871 2086 2304">
+     <span class='ocr_line' id='line_1_1' title="bbox 672 1871 1376 2004; baseline -0.003 -34"><span class='ocrx_word' id='word_1_1' title='bbox 672 1871 1376 2004; x_wconf 65' lang='lat' dir='ltr'>1NnnxPR1Mus</span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 179 2112 1926 2269; baseline 0.02 -20"><span class='ocrx_word' id='word_1_2' title='bbox 179 2112 1926 2269; x_wconf 73' lang='lat' dir='ltr'>BIBLIOGRAPHICUS&#39;</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 470 2430 1579 2565">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 470 2430 1579 2565">
+     <span class='ocr_line' id='line_1_3' title="bbox 470 2430 1579 2565; baseline 0.006 -53"><span class='ocrx_word' id='word_1_3' title='bbox 470 2431 808 2556; x_wconf 81' lang='lat' dir='ltr'><strong>SECUNDUM</strong></span> <span class='ocrx_word' id='word_1_4' title='bbox 865 2430 1160 2535; x_wconf 78' lang='lat' dir='ltr'><strong>ORDINEM</strong></span> <span class='ocrx_word' id='word_1_5' title='bbox 1212 2430 1579 2565; x_wconf 15' lang='lat' dir='ltr'>ALRPHABETI.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 727 2804 1319 2844">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 727 2804 1319 2844">
+     <span class='ocr_line' id='line_1_4' title="bbox 727 2804 1319 2844; baseline 0.007 -4"><span class='ocrx_word' id='word_1_6' title='bbox 727 2804 1319 2844; x_wconf 50' lang='lat' dir='ltr'><em>w</em></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 0 0 2224 5722">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 0 0 2224 5722">
+     <span class='ocr_line' id='line_1_5' title="bbox 0 0 2224 5722; baseline 0 0"><span class='ocrx_word' id='word_1_7' title='bbox 0 0 2224 5722; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
